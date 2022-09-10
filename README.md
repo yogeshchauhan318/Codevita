@@ -1,2 +1,2 @@
 # Codevita Live
-Predicting weight by height.
+This repository contains all my Codevita projects.
